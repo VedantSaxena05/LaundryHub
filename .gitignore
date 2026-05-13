@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+venv/
+node_modules/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+firebase-credentials.json
+*.json
+backend/firebase-credentials.json
+.env
