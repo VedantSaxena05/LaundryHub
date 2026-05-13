@@ -1,13 +1,24 @@
-__pycache__/
+# Python
+backend/venv/
+backend/__pycache__/
 *.pyc
+
+# Environment
 .env
-venv/
-node_modules/
-build/
-.flutter-plugins
-.flutter-plugins-dependencies
-.dart_tool/
+
+# Firebase
 firebase-credentials.json
-*.json
 backend/firebase-credentials.json
-.env
+
+# Node
+frontend/node_modules/
+
+# Build
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
